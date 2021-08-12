@@ -31,7 +31,7 @@ body .prinDiv header .perfil {
   margin: 0 auto;
   position: absolute;
   top: -4rem;
-  left: 10rem;
+  left: 25vw;
 }
 
 body .prinDiv header .perfil img {
@@ -104,9 +104,5 @@ body footer {
   font-weight: 100;
   font-size: 13px;
   margin-bottom: 0;
-}
-
-li:hover {
-  color: #fff;
 }
 /*# sourceMappingURL=app.css.map */
