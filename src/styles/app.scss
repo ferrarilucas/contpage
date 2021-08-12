@@ -62,6 +62,7 @@ body {
         margin: 0 auto;
 
         li {
+          cursor: pointer;
           list-style: none;
           background-color: $contrast-color;
           margin-bottom: 1rem;
@@ -75,7 +76,6 @@ body {
             color: $dark-color;
             align-items: center;
           }
-
           i {
             font-size: 25px;
           }

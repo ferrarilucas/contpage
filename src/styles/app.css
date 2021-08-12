@@ -66,6 +66,7 @@ body .prinDiv .links ul {
 }
 
 body .prinDiv .links ul li {
+  cursor: pointer;
   list-style: none;
   background-color: #f1f7f8;
   margin-bottom: 1rem;
@@ -103,5 +104,9 @@ body footer {
   font-weight: 100;
   font-size: 13px;
   margin-bottom: 0;
+}
+
+li:hover {
+  color: #fff;
 }
 /*# sourceMappingURL=app.css.map */
