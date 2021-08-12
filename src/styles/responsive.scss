@@ -1,32 +1,33 @@
-@media only screen and (min-width: 557px) {
+@media only screen and (max-width: 281px) {
   body {
     .prinDiv {
       header {
         .perfil {
-          left: 13rem;
+          left: 18vw;
         }
       }
     }
   }
 }
 
-@media only screen and (min-width: 650px) {
+@media only screen and (min-width: 557px) {
   body {
     .prinDiv {
       header {
         .perfil {
-          left: 15rem;
+          left: 35vw;
         }
       }
     }
   }
 }
+
 @media only screen and (min-width: 700px) {
   body {
     .prinDiv {
       header {
         .perfil {
-          left: 17rem;
+          left: 39vw;
         }
       }
     }
